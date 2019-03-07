@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574111873811",
+    "firebase_url": "https://ventlog-a224a.firebaseio.com",
+    "project_id": "ventlog-a224a",
+    "storage_bucket": "ventlog-a224a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574111873811:android:59f3c0aa80224004",
+        "android_client_info": {
+          "package_name": "com.example.user.ventlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574111873811-hknf3r93282p7inprei1a6jlfkeiosj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.ventlog",
+            "certificate_hash": "c4e74224925d4389427d4781098d7378d6f4163e"
+          }
+        },
+        {
+          "client_id": "574111873811-jts6tr520vd210o0pe1j8fj4mdn3qvf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rT_b2Zju3R09HPEZYbl8VZ59oXiDaDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574111873811-jts6tr520vd210o0pe1j8fj4mdn3qvf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

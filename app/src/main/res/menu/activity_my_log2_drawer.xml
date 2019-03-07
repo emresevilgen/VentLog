@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menuMyLog"
+            android:title="MyLog" />
+
+
+
+        <item android:title="Group Logs">
+            <menu>
+                <item
+                    android:id="@+id/menuAddGroupLog"
+                    android:title="Add group log..."/>
+            </menu>
+        </item>
+
+
+        <item android:title="Others">
+            <menu>
+                <item
+                    android:id="@+id/menuCollages"
+                    android:title="Collages" />
+                <item
+                    android:id="@+id/menuArchive"
+                    android:title="Archive" />
+                <item
+                    android:id="@+id/menuTrash"
+                    android:title="Trash" />
+            </menu>
+        </item>
+    </group>
+
+    <item
+        android:id="@+id/menuSettings"
+        android:title="Settings" />
+
+
+
+</menu>
