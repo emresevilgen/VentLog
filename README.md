@@ -93,7 +93,7 @@ References:
 
 https://www.udemy.com/android-o-mobil-uygulama-dersi-kotlin-java/learn/v4/overview
 
-https://www.youtube.com/watch?v=hREyErUJu6I  ------> 
+https://www.youtube.com/watch?v=hREyErUJu6I
 
 https://github.com/DushyantMainwal/FirebaseDemo
 
