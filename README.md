@@ -1,6 +1,7 @@
 # VentLog - Event Logger
 
 Project Number: 1G
+
 Title: VentLog
 
 Description: An app that you can save what you did on a certain day then add comments based on how these things made you feel, what they made you think, which people you’ve been to these things with, thoughts that you want to remember when you did these activities.
@@ -55,20 +56,20 @@ Utku Kalkanlı
 - Integrating some parts of the code. 
 
 Munib Emre Sevilgen
-- I have contributed to come up with an idea to form our project
-- I have contributed to the Requirement Report.
-- I have contributed to the Requirement Report Critique.
-- I have prepared my part in the Requirement Report presentation and the template of the presentation.
-- I have presented my parts of the presentation.
-- I have written my part for the revised Requirement Report.
-- I have prepared the screenshots for the User Design Report.
-- I have contributed to write the critique of Group 1F’s UI Design Report.
-- I have contributed to prepare the UI Design presentation.
-- I have contributed to revise our UI Design Report.
-- I have prepared the UML diagram for the Detailed Design Report.
-- I have written my part of the Detailed Design Report.
-- I have written some of the Java classes that will work behind the Android codes. (Archive, Cinema, Event, EventContainer, GroupLog, Log, MyLog, Template and Trash)
-- I have written some of the Android classes and xmls. (ShowEventActivity class, Menu xmls and MyLog class)
+- Came up with an idea to form our project
+- Contributed to the Requirement Report.
+- Contributed to the Requirement Report Critique.
+- Prepared some parts in the Requirement Report presentation and the template of the presentation.
+- Presented my parts of the presentation.
+- Wrote my parts for the revised Requirement Report.
+- Prepared the screenshots for the User Design Report.
+- Contributed to write the critique of Group 1F’s UI Design Report.
+- Contributed to prepare the UI Design presentation.
+- Contributed to revise our UI Design Report.
+- Prepared the UML diagram for the Detailed Design Report.
+- Wrote my part of the Detailed Design Report.
+- Wrote some of the Java classes that will work behind the Android codes. (Archive, Cinema, Event, EventContainer, GroupLog, Log, MyLog, Template and Trash)
+- Wrote some of the Android classes and xmls. (ShowEventActivity class, Menu xmls and MyLog class)
 
 Ece Çanga
 - I have updated the design of the wiki page.
@@ -89,6 +90,10 @@ Efe Dağdemir
 - Created the login page and the xml of the Event Page.
 
 References:
+
 https://www.udemy.com/android-o-mobil-uygulama-dersi-kotlin-java/learn/v4/overview
-https://www.youtube.com/watch?v=hREyErUJu6I  ------> https://github.com/DushyantMainwal/FirebaseDemo
+
+https://www.youtube.com/watch?v=hREyErUJu6I  ------> 
+
+https://github.com/DushyantMainwal/FirebaseDemo
 
